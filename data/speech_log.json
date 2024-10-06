@@ -1,0 +1,60 @@
+[
+  {
+    "start_time": "20241005_000000",
+    "end_time": "20241005_000021",
+    "text": "Hello, everyone.  I'm Jay Panchal, and I'm the CEO of GoodieBag.  Now, GoodieBag is an enterprise tool  we've built for companies that makes it easier and more  efficient to order food from restaurants for things",
+    "keywords": [
+      "GoodieBag",
+      "enterprise tool",
+      "order food",
+      "restaurants"
+    ],
+    "sentiment": "positive"
+  },
+  {
+    "start_time": "20241005_000021",
+    "end_time": "20241005_000034",
+    "text": "like employee meetings, lunches, and so on.  Now, something that's really important to remember about us  is that we're actually not a delivery service.  So we're not one of your typical on-demand food delivery  startups with those negative gross margins a few of you",
+    "keywords": [
+      "delivery service",
+      "on-demand food delivery",
+      "negative gross margins"
+    ],
+    "sentiment": "negative"
+  },
+  {
+    "start_time": "20241005_000034",
+    "end_time": "20241005_000045",
+    "text": "seem to love so much.  No.  The economics of what we're doing are fantastic,  and we can scale very fast.  We already have over 300 corporate customers",
+    "keywords": [
+      "economics",
+      "scale fast",
+      "corporate customers"
+    ],
+    "sentiment": "positive"
+  },
+  {
+    "start_time": "20241005_000045",
+    "end_time": "20241005_000059",
+    "text": "who have purchased over half a million meals through us,  and that's roughly $5.5 million in orders.  And to show you our economics truly are different,  our average order size is $350.  That's 10x the consumer space.",
+    "keywords": [
+      "half a million meals",
+      "$5.5 million in orders",
+      "average order size",
+      "consumer space"
+    ],
+    "sentiment": "positive"
+  },
+  {
+    "start_time": "20241005_000059",
+    "end_time": "20241005_000116",
+    "text": "Our average customer spends $24,000 a year through us.  We have 93% retention annually, and our CAC payback right now  is four months.  On top of this, we're growing consistently every month.  We're now crossing a $5.5 million GMV run rate",
+    "keywords": [
+      "$24,000 a year",
+      "93% retention",
+      "CAC payback",
+      "growing consistently"
+    ],
+    "sentiment": "positive"
+  }
+]

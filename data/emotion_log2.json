@@ -1,0 +1,77 @@
+[
+    {
+        "timestamp": "20241006_113146",
+        "listeners": [
+            {
+                "data": {
+                    "attention_level": 0.8,
+                    "happiness_level": 0.7,
+                    "sadness_level": 0.1,
+                    "anger_level": 0.1,
+                    "surprise_level": 0.2,
+                    "confusion_level": 0.05
+                }
+            },
+            {
+                "data": {
+                    "attention_level": 0.8,
+                    "happiness_level": 0.1,
+                    "sadness_level": 0.2,
+                    "anger_level": 0.0,
+                    "surprise_level": 0.3,
+                    "confusion_level": 0.0
+                }
+            },
+            {
+                "data": {
+                    "attention_level": 0.7,
+                    "happiness_level": 0.05,
+                    "sadness_level": 0.05,
+                    "anger_level": 0.3,
+                    "surprise_level": 0.05,
+                    "confusion_level": 0.5
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "20241006_113153",
+        "listeners": [
+            {
+                "data": {
+                    "attention_level": 0.0,
+                    "happiness_level": 0.0,
+                    "sadness_level": 0.0,
+                    "anger_level": 0.0,
+                    "surprise_level": 0.0,
+                    "confusion_level": 0.0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "20241006_113157",
+        "listeners": [
+            {
+                "data": {
+                    "attention_level": 0.0,
+                    "happiness_level": 0.0,
+                    "sadness_level": 0.0,
+                    "anger_level": 0.0,
+                    "surprise_level": 0.0,
+                    "confusion_level": 0.0
+                }
+            },
+            {
+                "data": {
+                    "attention_level": 0.5,
+                    "happiness_level": 0.1,
+                    "sadness_level": 0.3,
+                    "anger_level": 0.2,
+                    "surprise_level": 0.1,
+                    "confusion_level": 0.2
+                }
+            }
+        ]
+    }
+]

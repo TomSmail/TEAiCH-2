@@ -1,0 +1,287 @@
+[
+    {
+        "timestamp": "20241006_113351",
+        "listeners": [
+            {
+                "data": {
+                    "attention_level": 0.0,
+                    "happiness_level": 0.0,
+                    "sadness_level": 0.0,
+                    "anger_level": 0.0,
+                    "surprise_level": 0.0,
+                    "confusion_level": 0.0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "20241006_113355",
+        "listeners": [
+            {
+                "data": {
+                    "attention_level": 0.0,
+                    "happiness_level": 0.0,
+                    "sadness_level": 0.0,
+                    "anger_level": 0.0,
+                    "surprise_level": 0.0,
+                    "confusion_level": 0.0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "20241006_113359",
+        "listeners": [
+            {
+                "data": {
+                    "attention_level": 0.0,
+                    "happiness_level": 0.0,
+                    "sadness_level": 0.0,
+                    "anger_level": 0.0,
+                    "surprise_level": 0.0,
+                    "confusion_level": 0.0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "20241006_113403",
+        "listeners": [
+            {
+                "data": {
+                    "attention_level": 0.0,
+                    "happiness_level": 0.0,
+                    "sadness_level": 0.0,
+                    "anger_level": 0.0,
+                    "surprise_level": 0.0,
+                    "confusion_level": 0.0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "20241006_113406",
+        "listeners": [
+            {
+                "data": {
+                    "attention_level": 0.0,
+                    "happiness_level": 0.0,
+                    "sadness_level": 0.0,
+                    "anger_level": 0.0,
+                    "surprise_level": 0.0,
+                    "confusion_level": 0.0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "20241006_113413",
+        "listeners": [
+            {
+                "data": {
+                    "attention_level": 0.9,
+                    "happiness_level": 0.1,
+                    "sadness_level": 0.0,
+                    "anger_level": 0.0,
+                    "surprise_level": 0.0,
+                    "confusion_level": 0.0
+                }
+            },
+            {
+                "data": {
+                    "attention_level": 0.0,
+                    "happiness_level": 0.0,
+                    "sadness_level": 0.0,
+                    "anger_level": 0.0,
+                    "surprise_level": 0.0,
+                    "confusion_level": 0.0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "20241006_113418",
+        "listeners": [
+            {
+                "data": {
+                    "attention_level": 0.8,
+                    "happiness_level": 0.0,
+                    "sadness_level": 0.1,
+                    "anger_level": 0.0,
+                    "surprise_level": 0.0,
+                    "confusion_level": 0.3
+                }
+            },
+            {
+                "data": {
+                    "attention_level": 0.0,
+                    "happiness_level": 0.0,
+                    "sadness_level": 0.0,
+                    "anger_level": 0.0,
+                    "surprise_level": 0.0,
+                    "confusion_level": 0.0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "20241006_113423",
+        "listeners": [
+            {
+                "data": {
+                    "attention_level": 0.0,
+                    "happiness_level": 0.0,
+                    "sadness_level": 0.0,
+                    "anger_level": 0.0,
+                    "surprise_level": 0.0,
+                    "confusion_level": 0.0
+                }
+            },
+            {
+                "data": {
+                    "attention_level": 0.0,
+                    "happiness_level": 0.0,
+                    "sadness_level": 0.0,
+                    "anger_level": 0.0,
+                    "surprise_level": 0.0,
+                    "confusion_level": 0.0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "20241006_113430",
+        "listeners": [
+            {
+                "data": {
+                    "attention_level": 0.0,
+                    "happiness_level": 0.0,
+                    "sadness_level": 0.0,
+                    "anger_level": 0.0,
+                    "surprise_level": 0.0,
+                    "confusion_level": 0.0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "20241006_113436",
+        "listeners": [
+            {
+                "data": {
+                    "attention_level": 0.0,
+                    "happiness_level": 0.0,
+                    "sadness_level": 0.0,
+                    "anger_level": 0.0,
+                    "surprise_level": 0.0,
+                    "confusion_level": 0.0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "20241006_113441",
+        "listeners": [
+            {
+                "data": {
+                    "attention_level": 0.0,
+                    "happiness_level": 0.0,
+                    "sadness_level": 0.0,
+                    "anger_level": 0.0,
+                    "surprise_level": 0.0,
+                    "confusion_level": 0.0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "20241006_113447",
+        "listeners": [
+            {
+                "data": {
+                    "attention_level": 0.0,
+                    "happiness_level": 0.0,
+                    "sadness_level": 0.0,
+                    "anger_level": 0.0,
+                    "surprise_level": 0.0,
+                    "confusion_level": 0.0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "20241006_113455",
+        "listeners": [
+            {
+                "data": {
+                    "attention_level": 0.8,
+                    "happiness_level": 0.1,
+                    "sadness_level": 0.1,
+                    "anger_level": 0.2,
+                    "surprise_level": 0.7,
+                    "confusion_level": 0.1
+                }
+            },
+            {
+                "data": {
+                    "attention_level": 0.0,
+                    "happiness_level": 0.0,
+                    "sadness_level": 0.0,
+                    "anger_level": 0.0,
+                    "surprise_level": 0.0,
+                    "confusion_level": 0.0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "20241006_113501",
+        "listeners": [
+            {
+                "data": {
+                    "attention_level": 0.0,
+                    "happiness_level": 0.0,
+                    "sadness_level": 0.0,
+                    "anger_level": 0.0,
+                    "surprise_level": 0.0,
+                    "confusion_level": 0.0
+                }
+            },
+            {
+                "data": {
+                    "attention_level": 1.0,
+                    "happiness_level": 0.0,
+                    "sadness_level": 0.0,
+                    "anger_level": 0.0,
+                    "surprise_level": 0.0,
+                    "confusion_level": 0.0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "20241006_113506",
+        "listeners": [
+            {
+                "data": {
+                    "attention_level": 0.0,
+                    "happiness_level": 0.0,
+                    "sadness_level": 0.0,
+                    "anger_level": 0.0,
+                    "surprise_level": 0.0,
+                    "confusion_level": 0.0
+                }
+            },
+            {
+                "data": {
+                    "attention_level": 0.0,
+                    "happiness_level": 0.0,
+                    "sadness_level": 0.0,
+                    "anger_level": 0.0,
+                    "surprise_level": 0.0,
+                    "confusion_level": 0.0
+                }
+            }
+        ]
+    }
+]

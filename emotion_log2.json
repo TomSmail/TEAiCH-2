@@ -1,0 +1,52 @@
+[
+    {
+        "timestamp": "20241006_112658",
+        "listeners": [
+            {
+                "data": {
+                    "attention_level": 0.7,
+                    "happiness_level": 0.1,
+                    "sadness_level": 0.4,
+                    "anger_level": 0.1,
+                    "surprise_level": 0.2,
+                    "confusion_level": 0.3
+                }
+            },
+            {
+                "data": {
+                    "attention_level": 0.0,
+                    "happiness_level": 0.0,
+                    "sadness_level": 0.0,
+                    "anger_level": 0.0,
+                    "surprise_level": 0.0,
+                    "confusion_level": 0.0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "20241006_112704",
+        "listeners": [
+            {
+                "data": {
+                    "attention_level": 0.7,
+                    "happiness_level": 0.2,
+                    "sadness_level": 0.3,
+                    "anger_level": 0.1,
+                    "surprise_level": 0.4,
+                    "confusion_level": 0.2
+                }
+            },
+            {
+                "data": {
+                    "attention_level": 0.0,
+                    "happiness_level": 0.0,
+                    "sadness_level": 0.0,
+                    "anger_level": 0.0,
+                    "surprise_level": 0.0,
+                    "confusion_level": 0.0
+                }
+            }
+        ]
+    }
+]

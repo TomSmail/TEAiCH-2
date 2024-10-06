@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "repl-nix-engageinsight"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "^1.39.0"
+textblob = "^0.18.0.post0"
+pandas = "^2.2.3"
+plotly = "^5.24.1"
+numpy = "^1.24.0"
+sounddevice = "^0.5.0"
+openai = "^1.51.0"
+python-dotenv = "^1.0.1"
+scipy = "^1.14.1"
+pydub = "^0.25.1"
+langchain-mistralai = "^0.2.0"
+opencv-python = "^4.10.0.84"
+mistralai = "^1.1.0"
+keyboard = "^0.13.5"
+langchain = "^0.3.2"
+langchain-community = "^0.3.1"
+faiss-cpu = "^1.8.0.post1"
+jq = "^1.8.0"
+tiktoken = "^0.8.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
